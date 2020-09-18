@@ -1,0 +1,10 @@
+.mat-card {
+    background: transparent;
+    color: black;
+}
+.mat-card-subtitle{
+    color: #333;
+}
+.mat-card:not([class*=mat-elevation-z]){
+    box-shadow: none;
+}
