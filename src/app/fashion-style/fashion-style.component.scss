@@ -1,7 +1,12 @@
 .mat-card {
     background: transparent;
     color: black;
+    cursor: pointer;
 }
+.mat-card:hover .mat-card-title{
+    color: #228ADC;
+}
+
 .mat-card-subtitle{
     color: #333;
 }
